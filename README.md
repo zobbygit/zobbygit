@@ -73,12 +73,6 @@
 
 ---
 
-### 📈 Visitors
-<p align="center">
-  [![](https://visitcount.itsvg.in/api?id=zobbygit&icon=6&color=8)](https://visitcount.itsvg.in)
-</p>
-
----
 
 ### 🐍 GitHub Contribution Grid (Snake Animation)
 <p align="center">

@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zobbygit&label=Profile%20views&color=0e75b6&style=flat" alt="zobbygit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zobbygit" alt="zobbygit" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zobbygit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 - My Tech Stack **MERN Stack | Python | JavaScript | HTML | CSS| Java**
 

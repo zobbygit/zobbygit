@@ -26,11 +26,8 @@
 ---
 
 ### 🌐 Socials
-<p align="center">
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/daring_seahorse_48036)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zohaib Aslam)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamzohaib777@gmail.com)
-</p>
+<p><a href="https://www.linkedin.com/in/zohaib-aslam-0a573b378/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://github.com/zobbygit" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="iamzohaib777@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a> </p>
+
 
 ---
 
@@ -83,3 +80,9 @@
   </picture>
 </p>
 
+
+---
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zobbygit&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />

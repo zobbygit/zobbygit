@@ -19,10 +19,11 @@
   />
 </p>
 > -->
-https://github-profile-trophy.vercel.app/?zobbygit=ryo-ma&theme=onedark
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?zobbygit=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="./trophy.svg" />
+</p>
 
 ---
 

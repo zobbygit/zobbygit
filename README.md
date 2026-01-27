@@ -12,13 +12,14 @@
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=zobbygit&theme=radical&margin-w=10&row=1&column=6"
     alt="GitHub Trophies"
   />
 </p>
->
+> -->
+https://github-profile-trophy.vercel.app/?zobbygit=ryo-ma&theme=onedark
 
 ---
 

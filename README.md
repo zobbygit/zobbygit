@@ -13,13 +13,17 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zobbygit&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=zobbygit&theme=radical&margin-w=10&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
+>
 
 ---
 
 ### 💻 Tech Stack
-- **MERN Stack | Python | JavaScript | HTML | CSS | Java**
+- **MERN Stack | PERN Stack| Python | JavaScript | HTML | CSS | Java | C | C++ | AI **
 - 👨‍💻 All projects: [GitHub](https://github.com/zobbygit)
 - 📧 Email: **iamzohaib777@gmail.com**
 

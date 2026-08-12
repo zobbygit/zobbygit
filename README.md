@@ -77,13 +77,15 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zobbygit&" alt="GitHub Streak" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=zobbygit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=zobbygit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=zobbygit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=zobbygit&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🔝 Badges
 

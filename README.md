@@ -31,6 +31,7 @@
 - **MERN Stack | PERN Stack| Python | JavaScript | HTML | CSS | Java | C | C++ | AI **
 - 👨‍💻 All projects: [GitHub](https://github.com/zobbygit)
 - 📧 Email: **iamzohaib777@gmail.com**
+- 📑 LinkedIn : **https://www.linkedin.com/in/zohaib-aslam-245a40253/**
 
 ---
 

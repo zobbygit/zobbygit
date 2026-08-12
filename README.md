@@ -79,9 +79,10 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=zobbygit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=zobbygit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=zobbygit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=zobbygit&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=zobbygit&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=zobbygit&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
@@ -99,6 +100,9 @@
 
 
 ---
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ### 🐍 GitHub Contribution Grid (Snake Animation)

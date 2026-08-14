@@ -8,7 +8,7 @@
 </p>
 <!-- <h3 align="center">A passionate Full-stack and Software Developer from India</h3>-->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=ffffff&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+%F0%9F%93%9A;Python+%26+Django+Developer+%F0%9F%90%8D;Learning+Full-Stack+Development;Part+of+@DevWeekends+Fellowship+26+%F0%9F%9A%80;Seeking+Paid+Internships+%F0%9F%8E%AF" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=ffffff&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+%F0%9F%93%9A;Java+%26+C%2FC%2B%2B+Developer+%E2%98%95;React+%26+Next.js+Developer+%E2%9A%9B;Node.js+%26+Express.js+Developer+%F0%9F%9A%80;JavaScript+%26+TypeScript+Developer+%F0%9F%92%BB;MongoDB+%26+PostgreSQL+Developer+%F0%9F%97%84%EF%B8%8F;Learning+%26+Building+Full-Stack+Applications+%F0%9F%94%A5" alt="Typing Intro" />
 </p>
 
 

@@ -273,6 +273,7 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
 
 ### 🐍 GitHub Contribution Grid (Snake Animation)
 <p align="center">

@@ -130,7 +130,7 @@
   <td style="padding: 12px;"><b>Languages</b></td>
   <td style="padding: 12px; vertical-align: middle;">
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="42" height="42" title="HTML" alt="HTML" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/.png" width="42" height="42" title="" alt="HTML" align="absmiddle" />&nbsp;&nbsp;
 
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="42" height="42" title="CSS" alt="CSS" align="absmiddle" />&nbsp;&nbsp;
 
@@ -148,11 +148,11 @@
 
   </td>
   <td style="padding: 12px;">
-    Java, C, C++, Python, JavaScript (ES6+), TypeScript, HTML5, CSS3
+    Java, C, C++, Python, JavaScript (ES6+), TypeScript, 5, CSS3
   </td>
 </tr>
 
-<!-- Frontend -->
+
 <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
   <td style="padding: 12px;"><b>Frontend Development</b></td>
   <td style="padding: 12px; vertical-align: middle;">
@@ -173,7 +173,7 @@
   </td>
 </tr>
 
-<!-- Backend -->
+
 <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
   <td style="padding: 12px;"><b>Backend & APIs</b></td>
   <td style="padding: 12px; vertical-align: middle;">
@@ -196,7 +196,7 @@
   </td>
 </tr>
 
-<!-- Databases -->
+
 <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
   <td style="padding: 12px;"><b>Databases</b></td>
   <td style="padding: 12px; vertical-align: middle;">
@@ -217,7 +217,7 @@
   </td>
 </tr>
 
-<!-- Development Tools -->
+
 <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
   <td style="padding: 12px;"><b>Development Tools</b></td>
   <td style="padding: 12px; vertical-align: middle;">
@@ -238,7 +238,7 @@
   </td>
 </tr>
 
-<!-- Design & UI -->
+
 <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
   <td style="padding: 12px;"><b>Design & UI</b></td>
   <td style="padding: 12px; vertical-align: middle;">
@@ -255,7 +255,7 @@
   </td>
 </tr>
 
-<!-- OS & Environment -->
+
 <tr style="background-color: #0d1117;">
   <td style="padding: 12px;"><b>Operating Systems</b></td>
   <td style="padding: 12px; vertical-align: middle;">
@@ -269,7 +269,7 @@
     Windows, Linux
   </td>
 </tr>
-```
+
 
   </tbody>
 </table>

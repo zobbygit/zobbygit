@@ -40,13 +40,8 @@
 
 ---
 
-### 💻 Tech Stack
-- **MERN Stack | PERN Stack| Python | JavaScript | HTML | CSS | Java | C | C++ | AI **
-- 👨‍💻 All projects: [GitHub](https://github.com/zobbygit)
-- 📧 Email: **iamzohaib777@gmail.com**
-- 📑 LinkedIn : **https://www.linkedin.com/in/zohaib-aslam-245a40253/**
 
----
+
 
 ### 🌐 Connect with me through Socials
 <div align="center">
@@ -67,10 +62,15 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
 </a>
 </div>  
+
+
+- 👨‍💻 All projects: [GitHub](https://github.com/zobbygit)
+- 📧 Email: **iamzohaib777@gmail.com**
+- 📑 LinkedIn : **https://www.linkedin.com/in/zohaib-aslam-245a40253/**
 ---
 ---
 
-### 🛠 Languages & Tools
+### 💻 Tech Stack
 <div align="center">
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" title="HTML"/></code>
   <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" title="CSS"/></code>

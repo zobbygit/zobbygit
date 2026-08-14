@@ -323,7 +323,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=⭐+Happy+Coding+%7C+Keep+Building+%7C+Keep+Learning+%F0%9F%9A%80" alt="Happy Coding" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=%E2%9C%A8+Keep+Building.+Keep+Learning.;%F0%9F%92%BB+Code+%E2%80%A2+Create+%E2%80%A2+Innovate.;%F0%9F%9A%80+Turning+Ideas+Into+Reality.;%F0%9F%94%A5+Happy+Coding%2C+ZobbyGit!" alt="Developer Signature" />
 </p>
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=zobbygit&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" /> -->

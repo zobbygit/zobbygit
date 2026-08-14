@@ -151,9 +151,9 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="42" height="42" title="Tailwind CSS" alt="Tailwind CSS" />
 &nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="42" height="42" title="Redux" alt="Redux" />
-<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" alt="WebSocket" title="WebSocket"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
 </td>
-<td>React.js, Next.js, Vite, Tailwind CSS, Redux,WebSocket</td>
+<td>React.js, Next.js, Vite, Tailwind CSS, Redux, Bootstrap</td>
 </tr>
 
 <tr>
@@ -170,8 +170,10 @@
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="42" height="42" title="REST API" alt="REST API" />
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" width="42" height="42" title="HTTP" alt="HTTP" />
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" alt="WebSocket" title="WebSocket"/>
+  
 </td>
-<td>Node.js, Express.js, Django, FastAPI, REST APIs, HTTP</td>
+<td>Node.js, Express.js, Django, FastAPI, REST APIs, HTTP, Websocket</td>
 </tr>
 
 <tr>

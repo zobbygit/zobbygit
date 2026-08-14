@@ -216,8 +216,11 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png" width="42" height="42" title="Next UI" alt="Next UI" />
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png" width="42" height="42" title="Lucide" alt="Lucide" />
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" alt="Material UI" title="Material UI"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCn UI" title="ShadCn UI"/>
 </td>
-<td>Figma, Next UI, Lucide Icons</td>
+<td>Figma, Next UI, Lucide Icons, Material UI, Canva, ShadCn UI </td>
 </tr>
 
 <tr>

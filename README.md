@@ -255,6 +255,11 @@
 
 ---
 
+# 📊 GitHub Trophies 🏆
+https://github-trophies.vercel.app/?username=zobbygit&theme=dark&no-frame=true&no-bg=true&margin-w=8&column=7
+
+---
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🔝 Badges

@@ -276,6 +276,30 @@
 ---
 
 
+<h2 align="left">📊 GitHub Insights</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zobbygit&theme=onedark&animation=sequence&duration=3&name=ZobbyGit" alt="GitHub Profile Details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zobbygit&theme=onedark&animation=sequence&duration=3" alt="Repositories per Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zobbygit&theme=onedark&animation=sequence&duration=3" alt="Most Commit Language" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zobbygit&theme=onedark&animation=sequence&duration=3" alt="GitHub Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zobbygit&theme=onedark&animation=sequence&duration=3&utcOffset=12" alt="Productive Time" width="49%" />
+</p>
+
+
+
+
+
+---
+
+
+
 
 ## GitHub Activity Graph
 <p align="center">

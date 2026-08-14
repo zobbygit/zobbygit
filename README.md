@@ -6,7 +6,11 @@
     alt="Zohaib Aslam"
   />
 </p>
-<h3 align="center">A passionate Full-stack and Software Developer from India</h3>
+<!-- <h3 align="center">A passionate Full-stack and Software Developer from India</h3>-->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=ffffff&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+%F0%9F%93%9A;Python+%26+Django+Developer+%F0%9F%90%8D;Learning+Full-Stack+Development;Part+of+@DevWeekends+Fellowship+26+%F0%9F%9A%80;Seeking+Paid+Internships+%F0%9F%8E%AF" alt="Typing Intro" />
+</p>
+
 
 ---
 

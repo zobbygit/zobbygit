@@ -1,0 +1,211 @@
+<svg width="1460" height="380" viewBox="0 0 1460 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1460" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070A12"/>
+      <stop offset=".45" stop-color="#102B46"/>
+      <stop offset=".76" stop-color="#153D68"/>
+      <stop offset="1" stop-color="#11162D"/>
+    </linearGradient>
+
+    <linearGradient id="wave" x1="0" y1="80" x2="1450" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A1020"/>
+      <stop offset=".48" stop-color="#174B70"/>
+      <stop offset="1" stop-color="#5A18C9"/>
+    </linearGradient>
+
+    <!-- Moving glass highlight -->
+    <linearGradient id="glassSweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="white" stop-opacity="0"/>
+      <stop offset=".42" stop-color="white" stop-opacity=".04"/>
+      <stop offset=".50" stop-color="#FFFFFF" stop-opacity=".34"/>
+      <stop offset=".58" stop-color="white" stop-opacity=".04"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="lineGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00F5FF" stop-opacity=".1"/>
+      <stop offset=".5" stop-color="#7DF9FF"/>
+      <stop offset="1" stop-color="#00F5FF" stop-opacity=".1"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="cardClip">
+      <rect x="29" y="74" width="1402" height="304" rx="31"/>
+    </clipPath>
+
+    <style>
+      .name {
+        font: 800 66px Arial, Helvetica, sans-serif;
+        letter-spacing: 1px;
+        fill: #fff;
+      }
+      .subtitle {
+        font: 700 23px Arial, Helvetica, sans-serif;
+        letter-spacing: 5px;
+        fill: #7DF9FF;
+      }
+      .tagline {
+        font: 700 16px Arial, Helvetica, sans-serif;
+        letter-spacing: 2px;
+        fill: #D8D7FF;
+      }
+      .pill {
+        fill: #17110D;
+        fill-opacity: .84;
+        stroke: #00E5FF;
+        stroke-width: 1.5;
+      }
+      .pillText {
+        font: 700 13px Arial, Helvetica, sans-serif;
+        fill: #D7F9FF;
+      }
+
+      /* Whole-card glass reflection sweeps left -> right */
+      .glass-sweep {
+        animation: glassMove 4.8s ease-in-out infinite;
+      }
+      @keyframes glassMove {
+        0%   { transform: translateX(-1650px); opacity: 0; }
+        12%  { opacity: .10; }
+        38%  { opacity: .65; }
+        52%  { opacity: .65; }
+        78%  { opacity: .12; }
+        100% { transform: translateX(1650px); opacity: 0; }
+      }
+
+      /* Bottom light travels continuously left -> right */
+      .travel-line {
+        animation: lineMove 2.2s cubic-bezier(.45,0,.55,1) infinite;
+      }
+      @keyframes lineMove {
+        0%   { transform: translateX(-82px); opacity: .15; }
+        8%   { opacity: 1; }
+        50%  { opacity: 1; }
+        92%  { opacity: .9; }
+        100% { transform: translateX(82px); opacity: .15; }
+      }
+
+      .line-dot {
+        animation: dotPulse 2.2s ease-in-out infinite;
+        transform-origin: center;
+      }
+      @keyframes dotPulse {
+        0%,100% { r: 4; opacity: .35; }
+        50% { r: 6; opacity: 1; }
+      }
+
+      .edge-glow {
+        animation: edgePulse 3.8s ease-in-out infinite;
+      }
+      @keyframes edgePulse {
+        0%,100% { opacity: .65; }
+        50% { opacity: 1; }
+      }
+
+      .float-dot {
+        animation: floatDot 3.5s ease-in-out infinite;
+      }
+      .float-dot.two { animation-delay: -1.4s; }
+      .float-dot.three { animation-delay: -2.4s; }
+      @keyframes floatDot {
+        0%,100% { transform: translateY(0); opacity: .35; }
+        50% { transform: translateY(-8px); opacity: .9; }
+      }
+    </style>
+  </defs>
+
+  <!-- Card -->
+  <rect x="29" y="74" width="1402" height="304" rx="31" fill="url(#bg)"/>
+
+  <!-- Background wave -->
+  <path d="M31 74H1430V190
+           C1240 214 1115 248 930 271
+           C695 299 440 313 31 298V74Z"
+        fill="url(#wave)" opacity=".9"/>
+
+  <!-- Glass body tint -->
+  <rect x="29" y="74" width="1402" height="304" rx="31"
+        fill="white" fill-opacity=".018"
+        stroke="#7C4DFF" stroke-width="4"
+        class="edge-glow"/>
+
+  <!-- THE MOVING GLASS REFLECTION -->
+  <g clip-path="url(#cardClip)" class="glass-sweep">
+    <rect x="0" y="45" width="360" height="370"
+          transform="skewX(-17)"
+          fill="url(#glassSweep)"/>
+    <rect x="45" y="55" width="90" height="350"
+          transform="skewX(-17)"
+          fill="white" fill-opacity=".025"/>
+  </g>
+
+  <!-- Decorative dots -->
+  <g fill="#64F9FF">
+    <circle cx="117" cy="141" r="4" class="float-dot"/>
+    <circle cx="1350" cy="140" r="5" class="float-dot two"/>
+    <circle cx="1297" cy="293" r="4" class="float-dot three"/>
+    <circle cx="670" cy="337" r="3" class="float-dot"/>
+  </g>
+
+  <!-- Main content -->
+  <text x="730" y="177" text-anchor="middle" class="name">Zohaib Aslam</text>
+
+  <text x="730" y="222" text-anchor="middle" class="subtitle">
+    FULL-STACK SOFTWARE ENGINEER • AI ENGINEER
+  </text>
+
+  <text x="730" y="259" text-anchor="middle" class="tagline">
+    BUILDING WEB • CLOUD • AI SYSTEMS • LEARNING BY SHIPPING
+  </text>
+
+  <!-- Custom skill pills -->
+  <g transform="translate(235 278)">
+    <rect width="82" height="31" rx="16" class="pill"/>
+    <text x="41" y="20" text-anchor="middle" class="pillText">Java</text>
+
+    <rect x="91" width="88" height="31" rx="16" class="pill"/>
+    <text x="135" y="20" text-anchor="middle" class="pillText">C/C++</text>
+
+    <rect x="188" width="108" height="31" rx="16" class="pill"/>
+    <text x="242" y="20" text-anchor="middle" class="pillText">JavaScript</text>
+
+    <rect x="305" width="101" height="31" rx="16" class="pill"/>
+    <text x="355.5" y="20" text-anchor="middle" class="pillText">TypeScript</text>
+
+    <rect x="415" width="78" height="31" rx="16" class="pill"/>
+    <text x="454" y="20" text-anchor="middle" class="pillText">React</text>
+
+    <rect x="502" width="91" height="31" rx="16" class="pill"/>
+    <text x="547.5" y="20" text-anchor="middle" class="pillText">Next.js</text>
+
+    <rect x="602" width="91" height="31" rx="16" class="pill"/>
+    <text x="647.5" y="20" text-anchor="middle" class="pillText">Node.js</text>
+
+    <rect x="702" width="91" height="31" rx="16" class="pill"/>
+    <text x="747.5" y="20" text-anchor="middle" class="pillText">Express</text>
+
+    <rect x="802" width="101" height="31" rx="16" class="pill"/>
+    <text x="852.5" y="20" text-anchor="middle" class="pillText">MongoDB</text>
+
+    <rect x="912" width="111" height="31" rx="16" class="pill"/>
+    <text x="967.5" y="20" text-anchor="middle" class="pillText">PostgreSQL</text>
+  </g>
+  <!-- Bottom track -->
+  <rect x="668" y="335" width="156" height="5" rx="2.5"
+        fill="#263B72" opacity=".55"/>
+
+  <!-- Moving light segment -->
+  <g class="travel-line">
+    <rect x="678" y="335" width="51" height="5" rx="2.5"
+          fill="url(#lineGlow)" filter="url(#glow)"/>
+    <circle cx="729" cy="337.5" r="4" fill="#FFFFFF"
+            class="line-dot" filter="url(#glow)"/>
+  </g>
+</svg>

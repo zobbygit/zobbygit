@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Zohaib Aslam</h1> -->
 <p align="center">
   <img
-    src="./zohaib-github-banner-neon-cyan-purple-custom-skills.svg"
+    src="./resume.svg"
     width="100%"
     alt="Zohaib Aslam"
   />

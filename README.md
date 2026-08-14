@@ -44,10 +44,10 @@
 
 <p align="center">
   <img src = "https://skillicons.dev/icons?i=gmail,linkedin,twitter" alt="Gmail, LinkedIn Icons"/>
-  <img src="https://skillicons.dev/icons?i=github,instagram,discord,vercel" alt="Contact Links" />
+  <img src="https://skillicons.dev/icons?i=github,discord,vercel" alt="Contact Links" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/zobbygit" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -64,12 +64,13 @@
 <a href="https://discord.gg/daring_seahorse_48036" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
 </a>
-</div>  
+</div>   -->
 
 
 - 👨‍💻 All projects: [GitHub](https://github.com/zobbygit)
 - 📧 Email: **iamzohaib777@gmail.com**
 - 📑 LinkedIn : **https://www.linkedin.com/in/zohaib-aslam-245a40253/**
+- 🚀 Discord : **https://discord.gg/daring_seahorse_48036**
 ---
 
 

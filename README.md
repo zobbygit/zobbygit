@@ -8,6 +8,8 @@
 </p>
 <h3 align="center">A passionate Full-stack and Software Developer from India</h3>
 
+---
+
 <p align="center">
   <img alt="Coding" width="800" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </p>

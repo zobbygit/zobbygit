@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img alt="Coding" width="800" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  <img alt="Coding" width="700" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </p>
 
 <p align="center">

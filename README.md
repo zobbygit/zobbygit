@@ -40,7 +40,13 @@
 
 
 
-### 🌐 Connect with me through Socials
+### 🌐 Connect with me
+
+<p align="center">
+  <img src = "https://skillicons.dev/icons?i=gmail,linkedin,twitter" alt="Gmail, LinkedIn Icons"/>
+  <img src="https://skillicons.dev/icons?i=github,instagram,discord,vercel" alt="Contact Links" />
+</p>
+
 <div align="center">
 <a href="https://github.com/zobbygit" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />

@@ -256,7 +256,7 @@
 ---
 
 # 📊 GitHub Trophies 🏆
-https://github-trophies.vercel.app/?username=zobbygit&theme=dark&no-frame=true&no-bg=true&margin-w=8&column=7
+<p align="center"><img src="https://github-trophies.vercel.app/?username=zobbygit&theme=dark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" /></p>
 
 ---
 

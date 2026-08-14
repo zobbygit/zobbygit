@@ -323,7 +323,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=%E2%9C%A8+Keep+Building.+Keep+Learning.;%F0%9F%92%BB+Code+%E2%80%A2+Create+%E2%80%A2+Innovate.;%F0%9F%9A%80+Turning+Ideas+Into+Reality.;%F0%9F%94%A5+Happy+Coding%2C+ZobbyGit!" alt="Developer Signature" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Zohaib+%E2%80%A2+Keep+Building.+Keep+Learning.;Zohaib+%E2%80%A2+Code+%E2%80%A2+Create+%E2%80%A2+Innovate.;Zohaib+%E2%80%A2+Turning+Ideas+Into+Reality.;Zohaib+%E2%80%A2+Happy+Coding+%F0%9F%9A%80;Zohaib+%E2%80%A2+Think.+Build.+Ship.;Zohaib+%E2%80%A2+Learning+Something+New+Every+Day.;Zohaib+%E2%80%A2+Building+The+Future%2C+One+Line+At+A+Time.;Zohaib+%E2%80%A2+Dream+Big.+Code+Bigger.+%F0%9F%94%A5" alt="Zohaib Developer Signature" />
 </p>
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=zobbygit&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" /> -->

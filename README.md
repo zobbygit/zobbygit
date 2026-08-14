@@ -68,7 +68,6 @@
 - 📧 Email: **iamzohaib777@gmail.com**
 - 📑 LinkedIn : **https://www.linkedin.com/in/zohaib-aslam-245a40253/**
 ---
----
 
 ### 💻 Tech Stack
 <div align="center">

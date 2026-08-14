@@ -40,12 +40,6 @@
 
 
 
-### 🌐 Connect with me
-
-<p align="center">
-  <img src = "https://skillicons.dev/icons?i=gmail,linkedin,twitter" alt="Gmail, LinkedIn Icons"/>
-  <img src="https://skillicons.dev/icons?i=github,discord,vercel" alt="Contact Links" />
-</p>
 
 <!-- <div align="center">
 <a href="https://github.com/zobbygit" target="_blank">
@@ -67,11 +61,6 @@
 </div>   -->
 
 
-- 👨‍💻 All projects: [GitHub](https://github.com/zobbygit)
-- 📧 Email: **iamzohaib777@gmail.com**
-- 📑 LinkedIn : **https://www.linkedin.com/in/zohaib-aslam-245a40253/**
-- 🚀 Discord : **https://discord.gg/daring_seahorse_48036**
----
 
 
 <!-- <div align="center">
@@ -256,6 +245,20 @@
 ![](https://streak-stats.demolab.com/?user=zobbygit&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=zobbygit&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+---
+### 🌐 Connect with me
+
+<p align="center">
+  <img src = "https://skillicons.dev/icons?i=gmail,linkedin,twitter" alt="Gmail, LinkedIn Icons"/>
+  <img src="https://skillicons.dev/icons?i=github,discord,vercel" alt="Contact Links" />
+</p>
+
+
+- 👨‍💻 All projects: [GitHub](https://github.com/zobbygit)
+- 📧 Email: **iamzohaib777@gmail.com**
+- 📑 LinkedIn : **https://www.linkedin.com/in/zohaib-aslam-245a40253/**
+- 🚀 Discord : **https://discord.gg/daring_seahorse_48036**
 
 ---
 

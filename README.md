@@ -111,168 +111,247 @@
 
 
 
-## 💻 Tech Stack   <img align="absmiddle" height="40" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Tech animation" />
+## 💻 Tech Stack   <h2 align="left"> 💻 Tech Stack &nbsp;&nbsp; <img align="absmiddle" height="40" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Tech animation" /> </h2>
 
-<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;">
-  <thead>
-    <tr style="border-bottom: 2px solid #30363d; background-color: #161b22; color: #f0f6fc;">
-      <th align="left" style="padding: 12px; width: 22%;">Category</th>
-      <th align="left" style="padding: 12px; width: 48%;">Interactive Badges / Icons</th>
-      <th align="left" style="padding: 12px; width: 30%;">Technologies</th>
-    </tr>
-  </thead>
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;"> <thead> <tr style="border-bottom: 2px solid #30363d; background-color: #161b22; color: #f0f6fc;"> <th align="left" style="padding: 12px; width: 22%;">Category</th> <th align="left" style="padding: 12px; width: 48%;">Interactive Badges / Icons</th> <th align="left" style="padding: 12px; width: 30%;">Technologies</th> </tr> </thead>
 
-  <tbody style="color: #c9d1d9; background-color: #0d1117;">
+<tbody style="color: #c9d1d9; background-color: #0d1117;">
 
-
-
+<!-- Languages -->
 <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
   <td style="padding: 12px;"><b>Languages</b></td>
+
   <td style="padding: 12px; vertical-align: middle;">
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/.png" width="42" height="42" title="" alt="HTML" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://techstack-generator.vercel.app/java-icon.svg"
+         width="42" height="42"
+         title="Java" alt="Java" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="42" height="42" title="CSS" alt="CSS" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png"
+         width="42" height="42"
+         title="C" alt="C" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="42" height="42" title="JavaScript" alt="JavaScript" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg"
+         width="42" height="42"
+         title="C++" alt="C++" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" width="42" height="42" title="C" alt="C" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://techstack-generator.vercel.app/python-icon.svg"
+         width="42" height="42"
+         title="Python" alt="Python" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="42" height="42" title="C++" alt="C++" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://techstack-generator.vercel.app/js-icon.svg"
+         width="42" height="42"
+         title="JavaScript" alt="JavaScript" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" width="42" height="42" title="Java" alt="Java" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg"
+         width="42" height="42"
+         title="TypeScript" alt="TypeScript" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="42" height="42" title="Python" alt="Python" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"
+         width="42" height="42"
+         title="HTML5" alt="HTML5" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="42" height="42" title="TypeScript" alt="TypeScript" align="absmiddle" />
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"
+         width="42" height="42"
+         title="CSS3" alt="CSS3" align="absmiddle" />
 
   </td>
+
   <td style="padding: 12px;">
-    Java, C, C++, Python, JavaScript (ES6+), TypeScript, 5, CSS3
+    Java, C, C++, Python, JavaScript (ES6+), TypeScript, HTML5, CSS3
   </td>
 </tr>
 
 
+<!-- Frontend -->
 <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
   <td style="padding: 12px;"><b>Frontend Development</b></td>
+
   <td style="padding: 12px; vertical-align: middle;">
 
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="42" height="42" title="React" alt="React" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://techstack-generator.vercel.app/react-icon.svg"
+         width="42" height="42"
+         title="React" alt="React" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="42" height="42" title="Next.js" alt="Next.js" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png"
+         width="42" height="42"
+         title="Next.js" alt="Next.js" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" width="42" height="42" title="Vite" alt="Vite" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png"
+         width="42" height="42"
+         title="Vite" alt="Vite" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="42" height="42" title="Tailwind CSS" alt="Tailwind CSS" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"
+         width="42" height="42"
+         title="Tailwind CSS" alt="Tailwind CSS" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" width="42" height="42" title="Redux" alt="Redux" align="absmiddle" />
+    <img src="https://techstack-generator.vercel.app/redux-icon.svg"
+         width="42" height="42"
+         title="Redux" alt="Redux" align="absmiddle" />
 
   </td>
+
   <td style="padding: 12px;">
     React.js, Next.js, Vite, Tailwind CSS, Redux
   </td>
 </tr>
 
 
+<!-- Backend -->
 <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
   <td style="padding: 12px;"><b>Backend & APIs</b></td>
+
   <td style="padding: 12px; vertical-align: middle;">
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="42" height="42" title="Node.js" alt="Node.js" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"
+         width="42" height="42"
+         title="Node.js" alt="Node.js" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="42" height="42" title="Express.js" alt="Express.js" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png"
+         width="42" height="42"
+         title="Express.js" alt="Express.js" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://techstack-generator.vercel.app/django-icon.svg" width="42" height="42" title="Django" alt="Django" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://techstack-generator.vercel.app/django-icon.svg"
+         width="42" height="42"
+         title="Django" alt="Django" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" width="42" height="42" title="FastAPI" alt="FastAPI" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png"
+         width="42" height="42"
+         title="FastAPI" alt="FastAPI" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="42" height="42" title="REST API" alt="REST API" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg"
+         width="42" height="42"
+         title="REST API" alt="REST API" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" width="42" height="42" title="HTTP" alt="HTTP" align="absmiddle" />
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png"
+         width="42" height="42"
+         title="HTTP" alt="HTTP" align="absmiddle" />
 
   </td>
+
   <td style="padding: 12px;">
     Node.js, Express.js, Django, FastAPI, REST APIs, HTTP
   </td>
 </tr>
 
 
+<!-- Databases -->
 <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
-  <td style="padding: 12px;"><b>Databases</b></td>
+  <td style="padding: 12px;"><b>Databases & Backend Services</b></td>
+
   <td style="padding: 12px; vertical-align: middle;">
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="42" height="42" title="MongoDB" alt="MongoDB" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"
+         width="42" height="42"
+         title="MongoDB" alt="MongoDB" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="42" height="42" title="PostgreSQL" alt="PostgreSQL" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"
+         width="42" height="42"
+         title="PostgreSQL" alt="PostgreSQL" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="42" height="42" title="MySQL" alt="MySQL" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg"
+         width="42" height="42"
+         title="MySQL" alt="MySQL" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prisma.png" width="42" height="42" title="Prisma" alt="Prisma" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prisma.png"
+         width="42" height="42"
+         title="Prisma" alt="Prisma" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" width="42" height="42" title="Supabase" alt="Supabase" align="absmiddle" />
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png"
+         width="42" height="42"
+         title="Supabase" alt="Supabase" align="absmiddle" />
 
   </td>
+
   <td style="padding: 12px;">
     MongoDB, PostgreSQL, MySQL, Prisma, Supabase
   </td>
 </tr>
 
 
+<!-- Development Tools -->
 <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
   <td style="padding: 12px;"><b>Development Tools</b></td>
+
   <td style="padding: 12px; vertical-align: middle;">
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="42" height="42" title="VS Code" alt="VS Code" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"
+         width="42" height="42"
+         title="Visual Studio Code" alt="Visual Studio Code" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" width="42" height="42" title="IntelliJ IDEA" alt="IntelliJ IDEA" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png"
+         width="42" height="42"
+         title="IntelliJ IDEA" alt="IntelliJ IDEA" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" width="42" height="42" title="Eclipse" alt="Eclipse" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png"
+         width="42" height="42"
+         title="Eclipse" alt="Eclipse" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="42" height="42" title="GitHub" alt="GitHub" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://techstack-generator.vercel.app/github-icon.svg"
+         width="42" height="42"
+         title="GitHub" alt="GitHub" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="42" height="42" title="Git" alt="Git" align="absmiddle" />
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"
+         width="42" height="42"
+         title="Git" alt="Git" align="absmiddle" />
 
   </td>
+
   <td style="padding: 12px;">
     VS Code, IntelliJ IDEA, Eclipse, Git, GitHub
   </td>
 </tr>
 
 
+<!-- Design & UI -->
 <tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
   <td style="padding: 12px;"><b>Design & UI</b></td>
+
   <td style="padding: 12px; vertical-align: middle;">
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="42" height="42" title="Figma" alt="Figma" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png"
+         width="42" height="42"
+         title="Figma" alt="Figma" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png" width="42" height="42" title="Next UI" alt="Next UI" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png"
+         width="42" height="42"
+         title="Next UI" alt="Next UI" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png" width="42" height="42" title="Lucide" alt="Lucide" align="absmiddle" />
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png"
+         width="42" height="42"
+         title="Lucide" alt="Lucide" align="absmiddle" />
 
   </td>
+
   <td style="padding: 12px;">
     Figma, Next UI, Lucide Icons
   </td>
 </tr>
 
 
-<tr style="background-color: #0d1117;">
+<!-- Operating Systems -->
+<tr style="border-bottom: 1px solid #21262d; background-color: #0d1117;">
   <td style="padding: 12px;"><b>Operating Systems</b></td>
+
   <td style="padding: 12px; vertical-align: middle;">
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" width="42" height="42" title="Windows" alt="Windows" align="absmiddle" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png"
+         width="42" height="42"
+         title="Windows" alt="Windows" align="absmiddle" />&nbsp;&nbsp;
 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="42" height="42" title="Linux" alt="Linux" align="absmiddle" />
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"
+         width="42" height="42"
+         title="Linux" alt="Linux" align="absmiddle" />
 
   </td>
+
   <td style="padding: 12px;">
     Windows, Linux
   </td>
 </tr>
 
+</tbody> </table>
 
-  </tbody>
-</table>
 
 
 
